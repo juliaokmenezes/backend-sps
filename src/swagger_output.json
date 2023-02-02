@@ -5,7 +5,7 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "sps-enterprise.onrender",
+  "host": "localhost:3000",
   "basePath": "/",
   "schemes": ["https"],
   "paths": {
